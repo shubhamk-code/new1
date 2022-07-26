@@ -1,2 +1,3 @@
 hello from git
 new line
+next
